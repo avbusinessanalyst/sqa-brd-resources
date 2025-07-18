@@ -45,4 +45,50 @@ This resource was built to:
 ---
 
 ## 🧱 Project Structure
+├── index.html # Resource Hub homepage
+├── SQA-BRD-Anirvan.pdf # Tagged PDF version
+├── SQA-BRD-Anirvan.html # Web version
+├── SQA-BRD-Anirvan.epub # EPUB eBook
+├── SQA-BRD-Anirvan-Braille.brf # Braille (.brf) version
+├── images/ # Diagrams for HTML version
+├── README.md # This file
 
+
+---
+
+## 📌 Key Business Analyst Concepts Demonstrated
+
+- Functional & Non-functional Requirements
+- Scope and Stakeholder Mapping
+- As-is / To-be Process Modelling
+- Agile & Continuous Delivery Alignment
+- Accessibility & Inclusive Design
+- Digital Transformation Insight
+- Documentation Version Control
+- Visual Wireframing and Journey Modelling
+
+---
+
+## 🧠 Why This Matters
+
+In a world where CVs blur together, this project proves that I don’t just understand how to write about **value** — I know how to **deliver** it. This Resource Hub exemplifies how a business analyst can:
+
+- Bridge strategy and delivery
+- Communicate across audiences
+- Design with users in mind
+- Turn abstract requirements into tangible solutions
+
+---
+
+## 📬 Contact
+
+If you'd like to discuss this project further, collaborate, or explore opportunities:
+
+**📧 Email:** [anirvan.vinod@outlook.com](mailto:anirvan.vinod@outlook.com)  
+**🌐 LinkedIn:** [linkedin.com/in/anirvanvinod](https://linkedin.com/in/anirvanvinod)
+
+---
+
+## 🛡 License
+
+This repository is shared for personal, educational, and professional demonstration purposes. All rights to original content are retained by **Anirvan Vinod**.
