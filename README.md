@@ -9,7 +9,7 @@ This project is both a **portfolio** and a **demonstration of business analysis 
 ## 🔗 Live Resource Hub
 
 **🌐 Visit the full web-based Resource Hub:**  
-[▶️ Access SQA BRD Resource Hub](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME)
+[▶️ Access SQA BRD Resource Hub](https://avbusinessanalyst.github.io/sqa-brd-resources/)
 
 > Or scan the QR code on the first page of the BRD to view this hub across formats.
 
@@ -23,7 +23,7 @@ The BRD and supporting materials are available in multiple accessible formats:
 - 📖 [EPUB eBook](./SQA-BRD-Anirvan.epub)
 - 🔈 [MP3 Audio Version](https://drive.google.com/uc?export=download&id=1ArjG_3PrOkFhsylFZe2sM8_1c9h_TFwI)
 - 🌐 [HTML Web Version](./SQA-BRD-Anirvan.html)
-- ⠿ [Braille (.brf)](./SQA-BRD-Anirvan-Braille.brf)
+- ⠿  [Braille (.brf)](./SQA-BRD-Anirvan-Braille.brf)
 
 Each format is crafted for a specific accessibility or usability need, reflecting my commitment to inclusive design and stakeholder empathy — key traits in business analysis.
 
@@ -41,18 +41,6 @@ This resource was built to:
   - GitHub Pages
   - Documentation standards
   - Accessibility and inclusive delivery
-
----
-
-## 🧱 Project Structure
-├── index.html # Resource Hub homepage
-├── SQA-BRD-Anirvan.pdf # Tagged PDF version
-├── SQA-BRD-Anirvan.html # Web version
-├── SQA-BRD-Anirvan.epub # EPUB eBook
-├── SQA-BRD-Anirvan-Braille.brf # Braille (.brf) version
-├── images/ # Diagrams for HTML version
-├── README.md # This file
-
 
 ---
 
