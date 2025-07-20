@@ -73,7 +73,7 @@ In a world where CVs blur together, this project proves that I don’t just unde
 If you'd like to discuss this project further, collaborate, or explore opportunities:
 
 **📧 Email:** [anirvan.vinod@outlook.com](mailto:anirvan.vinod@outlook.com)  
-**🌐 LinkedIn:** [linkedin.com/in/anirvanvinod](https://linkedin.com/in/anirvanvinod)
+**🌐 LinkedIn:** [linkedin.com/in/anirvanvinod](https://www.linkedin.com/in/anirvan-vinod/)
 
 ---
 
